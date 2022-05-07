@@ -1,0 +1,17 @@
+body{
+    width: 300px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding: auto;
+    background-color: rgba(255, 81, 0, 0.607);
+}
+
+p{
+    color: blueviolet;
+    margin: auto;
+    padding: 30px;
+    display: inner-flex;
+    font-size: 20px;
+
+}
